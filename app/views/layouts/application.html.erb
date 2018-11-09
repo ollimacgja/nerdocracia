@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nerdocracia</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body class="body-wrapper version1">
+    <div class="main-wrapper">
+      <%= render "layouts/header" %>
+      <section class="mainContent clearfix">
+        <div class="container">
+          <%= yield %>
+        </div>
+      </section>
+      <%= render "layouts/footer" %>
+    </div>
+    <%= render "layouts/modals/login_modal" %>
+    <%= render "layouts/modals/sign_up_modal" %>
+  </body>
+</html>
+
