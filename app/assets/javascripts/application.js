@@ -16,5 +16,5 @@
 //= require jquery3
 //= require jquery_ujs
 //= require popper.min.js
-//= require vue.min.js
 //= require_tree .
+//= require vue.js

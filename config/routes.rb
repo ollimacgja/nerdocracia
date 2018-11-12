@@ -4,4 +4,7 @@ Rails.application.routes.draw do
   devise_scope :user do
     root to: 'home#index'
   end
+  resources :products do
+    get 'featured_products', on: :collection
+  end
 end
