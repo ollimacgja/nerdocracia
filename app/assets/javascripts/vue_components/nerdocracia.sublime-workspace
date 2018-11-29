@@ -1,0 +1,1309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_prods"
+			],
+			[
+				"pos",
+				"postgres"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/camillo/projects/nerdocracia/public/404.html",
+			"settings":
+			{
+				"buffer_size": 1722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/index.html",
+			"settings":
+			{
+				"buffer_size": 55264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/views/layouts/modals/_sign_up_modal.html.erb",
+			"settings":
+			{
+				"buffer_size": 1160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 715,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/controllers/home_controller.rb",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 5270,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 291,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 4581 files for \"offer-price\"\n\n/home/camillo/projects/nerdocracia/app/assets/stylesheets/default.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #47BAC1;\n\n/home/camillo/projects/nerdocracia/app/assets/stylesheets/style.css:\n 2995  }\n 2996  \n 2997: .bannerV3 .slide .productCaption .offer-price {\n 2998    font-size: 18px;\n 2999    font-weight: 700;\n ....\n 3004  \n 3005  @media (min-width: 1200px) {\n 3006:   .bannerV3 .slide .productCaption .offer-price {\n 3007      font-size: 24px;\n 3008    }\n ....\n 3670  }\n 3671  \n 3672: .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price {\n 3673    font-size: 24px;\n 3674    font-weight: 700;\n\n/home/camillo/projects/nerdocracia/app/views/home/_featured_products.html.erb:\n   21        <div class=\"productCaption clearfix text-center\">\n   22          <h3><a href=\"single-product.html\">{{ product.name }}</a></h3>\n   23:         <span class=\"offer-price\">R$ {{ product.price }}</span>\n   24          <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n   25        </div>\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/index-v3.html:\n  311                    <h4>Small Forest Hatchet</h4>\n  312                    <div class=\"productMeta\">\n  313:                     <span class=\"offer-price\">$50.00</span>\n  314                      <span class=\"regular-price\"><del>$80.00</del></span>\n  315                      <span class=\"offer\">50% off</span>\n  ...\n  351                  <div class=\"productCaption clearfix text-center\">\n  352                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  353:                   <span class=\"offer-price\">$50.00</span>\n  354                    <span class=\"regular-price\"><del>$80.00</del></span>\n  355                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  374                  <div class=\"productCaption clearfix text-center\">\n  375                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  376:                   <span class=\"offer-price\">$50.00</span>\n  377                    <span class=\"regular-price\"><del>$80.00</del></span>\n  378                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  397                  <div class=\"productCaption clearfix text-center\">\n  398                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  399:                   <span class=\"offer-price\">$50.00</span>\n  400                    <span class=\"regular-price\"><del>$80.00</del></span>\n  401                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  420                  <div class=\"productCaption clearfix text-center\">\n  421                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  422:                   <span class=\"offer-price\">$50.00</span>\n  423                    <span class=\"regular-price\"><del>$80.00</del></span>\n  424                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/_home.scss:\n  162  \t\t\t}\n  163  \t\t}\n  164: \t\t.offer-price{\n  165  \t\t\tfont-size: 24px;\n  166  \t\t\tfont-weight: 700;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/_main-slider.scss:\n  622  \t\t\t\tdisplay: inline-block;\n  623  \t\t\t}\n  624: \t\t\t.offer-price{\n  625  \t\t\t\tfont-size: 18px;\n  626  \t\t\t    font-weight: 700;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/color-option1.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/color-option2.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/color-option3.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/color-option4.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/scss/default.scss:\n    2  \n    3  /* ==================== TEXT COLOR ===================== */\n    4: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    5  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    6    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/index-v3.html:\n  311                    <h4>Small Forest Hatchet</h4>\n  312                    <div class=\"productMeta\">\n  313:                     <span class=\"offer-price\">$50.00</span>\n  314                      <span class=\"regular-price\"><del>$80.00</del></span>\n  315                      <span class=\"offer\">50% off</span>\n  ...\n  351                  <div class=\"productCaption clearfix text-center\">\n  352                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  353:                   <span class=\"offer-price\">$50.00</span>\n  354                    <span class=\"regular-price\"><del>$80.00</del></span>\n  355                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  374                  <div class=\"productCaption clearfix text-center\">\n  375                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  376:                   <span class=\"offer-price\">$50.00</span>\n  377                    <span class=\"regular-price\"><del>$80.00</del></span>\n  378                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  397                  <div class=\"productCaption clearfix text-center\">\n  398                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  399:                   <span class=\"offer-price\">$50.00</span>\n  400                    <span class=\"regular-price\"><del>$80.00</del></span>\n  401                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  420                  <div class=\"productCaption clearfix text-center\">\n  421                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  422:                   <span class=\"offer-price\">$50.00</span>\n  423                    <span class=\"regular-price\"><del>$80.00</del></span>\n  424                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/_home.scss:\n  162  \t\t\t}\n  163  \t\t}\n  164: \t\t.offer-price{\n  165  \t\t\tfont-size: 24px;\n  166  \t\t\tfont-weight: 700;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/_main-slider.scss:\n  622  \t\t\t\tdisplay: inline-block;\n  623  \t\t\t}\n  624: \t\t\t.offer-price{\n  625  \t\t\t\tfont-size: 18px;\n  626  \t\t\t    font-weight: 700;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/color-option1.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/color-option2.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/color-option3.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/color-option4.scss:\n    3  \n    4  /* ==================== TEXT COLOR ===================== */\n    5: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    6  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    7    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Koala/scss/default.scss:\n    2  \n    3  /* ==================== TEXT COLOR ===================== */\n    4: .navbar-default .navbar-collapse li a.nav-link:hover,.navbar-default .navbar-collapse li a.nav-link.focus,.navbar-default .navbar-collapse li a.nav-link:focus,.navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a,.navbar-default .navbar-collapse li.active a:focus,.navbar-default .navbar-collapse li.active a:hover , .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price,  .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    5  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small,.footer .newsletter .input-group .input-group-addon i,.copyRight.version2 p a:hover,.form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link,.logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link ,.sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover,.navbar-side-collapse .side-nav li a:hover,.filterNormal .list-unstyled li a:hover,.productListSingle .media:hover .media-heading,.productListSingle .media:hover h3,.cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1,.commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span ,.orderBox .table-responsive .table tbody tr td:first-child,.orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4),.icon-left.card.card-accordion .card-header.header-inverse a,.card .card-title:hover,.quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover,ul.nav .nav-item.active .nav-link,.icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa,.nav-tabs.bar-tabs .nav-link.active h5 {\n    6    color: $primary-color;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/index-v3.html:\n  311                    <h4>Small Forest Hatchet</h4>\n  312                    <div class=\"productMeta\">\n  313:                     <span class=\"offer-price\">$50.00</span>\n  314                      <span class=\"regular-price\"><del>$80.00</del></span>\n  315                      <span class=\"offer\">50% off</span>\n  ...\n  351                  <div class=\"productCaption clearfix text-center\">\n  352                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  353:                   <span class=\"offer-price\">$50.00</span>\n  354                    <span class=\"regular-price\"><del>$80.00</del></span>\n  355                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  374                  <div class=\"productCaption clearfix text-center\">\n  375                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  376:                   <span class=\"offer-price\">$50.00</span>\n  377                    <span class=\"regular-price\"><del>$80.00</del></span>\n  378                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  397                  <div class=\"productCaption clearfix text-center\">\n  398                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  399:                   <span class=\"offer-price\">$50.00</span>\n  400                    <span class=\"regular-price\"><del>$80.00</del></span>\n  401                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n  ...\n  420                  <div class=\"productCaption clearfix text-center\">\n  421                    <h3><a href=\"single-product.html\">Mauris efficitur</a></h3>\n  422:                   <span class=\"offer-price\">$50.00</span>\n  423                    <span class=\"regular-price\"><del>$80.00</del></span>\n  424                    <a href=\"single-product.html\" class=\"btn btn-border\">Buy Now<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></a>\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/color-option1.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #9B59B6;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/color-option2.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #FFB548;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/color-option3.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #0CA1EA;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/color-option4.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #F45C5D;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/default.css:\n    1  /* ==================== TEXT COLOR ===================== */\n    2: .navbar-default .navbar-collapse li a.nav-link:hover, .navbar-default .navbar-collapse li a.nav-link.focus, .navbar-default .navbar-collapse li a.nav-link:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.active a, .navbar-default .navbar-collapse li.active a:focus, .navbar-default .navbar-collapse li.active a:hover, .navbar-default .navbar-collapse li.active.dropdown .dropdown-menu li a:hover, .navbar-default .navbar-collapse li.dropdown.show a:hover, .navbar-default .navbar-collapse li.dropdown.show a.focus, .navbar-default .navbar-collapse li.dropdown.show a:focus, .navbar-default .navbar-collapse li.dropdown .dropdown-menu li.active a, .navbar-default .navbar-nav > .show > a, .navbar-default .navbar-nav > .show > a:focus, .navbar-default .navbar-nav > .show > a:hover, .nav-category .dropdown-menu li a:hover, .nav-category .dropdown-menu li a:hover i, .nav-category .dropdown-menu li.active a, .navbar-transparent .navbar-nav .nav-item.active a.nav-link, .navbar-transparent.bb-fixed-header .navbar-nav .nav-item.active a.nav-link, .bannerV3 .slide .slider-title h3 span, .bannerV3 .slide .productCaption .offer-price, .bannerV3 .slick-prev:before, .bannerV3 .slick-next:before, .slider-captionV4 .tp-caption.rs-caption-2 small, .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price, .whiteSection .latestArticles .thumbnail span a:hover, .mainContent .latestArticles .thumbnail span a:hover, .box i, .dealSlider .productDeal h3 span, .dealSlider .productCaption .btn-border,\n    3  .dealSlider .productCaption .btn-border i, .dealSlider .imageBox:hover .productDeal .rating, .dealSlider .whiteSection .featuredProducts .slide:hover .productDeal .rating, .whiteSection .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .mainContent .featuredProducts .slide:hover .productDeal .rating, .mainContent .featuredProducts .dealSlider .slide:hover .productDeal .rating, .dealSlider .productsContent .productBox:hover .productDeal .rating, .productsContent .dealSlider .productBox:hover .productDeal .rating, .testimonial-inner .testimonialText .product-rating, .category-top .category-menu h2, .category-menu ul li:hover a, .home-v5 .icon-box, .home-v5 .testimonial-section .card small, .footer .newsletter .input-group .input-group-addon i, .copyRight.version2 p a:hover, .form-field .btn-link, .form-body .panel .panel-body .btn-link, .signUp .panel .panel-body .btn-link, .lostPassword .panel .panel-body .btn-link, .logIn .panel .panel-body .btn-link, .commentsForm .btn-link, #login .modal-dialog .modal-content .modal-body .btn-link, .logIn .panel .panel-body .btn-link:hover, #signup .modal-dialog .modal-content .modal-body .btn-link, .sub-list-item:hover, .navbar-side-collapse .side-nav li .collapseItem li a:hover, .sidebar-list li a:hover, .navbar-side-collapse .side-nav li a:hover, .filterNormal .list-unstyled li a:hover, .productListSingle .media:hover .media-heading, .productListSingle .media:hover h3, .cartListInner .table-responsive .table tbody tr td .close, .orderBox.myAddress .table-responsive .table tbody tr td .close, .notFound h1, .commentsArea .media .media-body .btn-link:hover, .userProfile .innerWrapper h3 span, .orderBox .table-responsive .table tbody tr td:first-child, .orderBox.myAddress.wishList .table-responsive .table tbody tr td:nth-child(4), .icon-left.card.card-accordion .card-header.header-inverse a, .card .card-title:hover, .quick-drop .sbOptions a:hover, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5 {\n    4    color: #47BAC1;\n\n/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/css/style.css:\n 2995  }\n 2996  \n 2997: .bannerV3 .slide .productCaption .offer-price {\n 2998    font-size: 18px;\n 2999    font-weight: 700;\n ....\n 3004  \n 3005  @media (min-width: 1200px) {\n 3006:   .bannerV3 .slide .productCaption .offer-price {\n 3007      font-size: 24px;\n 3008    }\n ....\n 3670  }\n 3671  \n 3672: .imageBox .productCaption .offer-price, .whiteSection .featuredProducts .slide .productCaption .offer-price, .mainContent .featuredProducts .slide .productCaption .offer-price, .productsContent .productBox .productCaption .offer-price {\n 3673    font-size: 24px;\n 3674    font-weight: 700;\n\n112 matches across 26 files\n",
+			"settings":
+			{
+				"buffer_size": 74315,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/test_vue.js",
+			"settings":
+			{
+				"buffer_size": 127,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "featured-products.js",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/controllers/products_controller.rb",
+			"settings":
+			{
+				"buffer_size": 12497,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/assets/stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 266774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/custom.js",
+			"settings":
+			{
+				"buffer_size": 12372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/views/layouts/_footer.html.erb",
+			"settings":
+			{
+				"buffer_size": 3170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/camillo/projects/nerdocracia/app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 18343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/camillo/projects/nerdocracia/app/views/home/_featured_products.html.erb",
+		"/home/camillo/projects/nerdocracia/app/assets/javascripts/vue-components/featured-products.js",
+		"/home/camillo/projects/nerdocracia/app/assets/javascripts/component_test.vue",
+		"/home/camillo/projects/nerdocracia/app/assets/javascripts/home.coffee",
+		"/home/camillo/projects/nerdocracia/app/views/home/_featured_products.js",
+		"/home/camillo/projects/nerdocracia/app/assets/javascripts/application.js",
+		"/home/camillo/projects/nerdocracia/app/controllers/application_controller.rb",
+		"/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/plugins/fancybox/jquery.fancybox.css",
+		"/home/camillo/projects/nerdocracia/app/assets/stylesheets/font-awesome.min.scss",
+		"/home/camillo/projects/nerdocracia/config/initializers/assets.rb",
+		"/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Dev Environment/Gulp/src/404.html",
+		"/home/camillo/projects/nerdocracia/Gemfile",
+		"/home/camillo/projects/nerdocracia/spec/spec_helper.rb",
+		"/home/camillo/projects/nerdocracia/config/routes.rb",
+		"/home/camillo/projects/nerdocracia/app/models/user.rb",
+		"/home/camillo/projects/nerdocracia/db/migrate/20181013000156_devise_create_users.rb",
+		"/home/camillo/projects/nerdocracia/app/views/layouts/application.html.erb",
+		"/home/camillo/projects/nerdocracia/.ruby-version",
+		"/home/camillo/projects/nerdocracia/public/404.html",
+		"/home/camillo/projects/nerdocracia/config/database.yml",
+		"/home/camillo/projects/nerdocracia/config/environments/development.rb",
+		"/home/camillo/projects/nerdocracia/config/initializers/rspec.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"offer-price",
+			"padding",
+			"mainContent",
+			"main",
+			"\">\n",
+			"translate3d",
+			"justify-content-center",
+			"6.1 LOGIN MODA",
+			"url('../fonts/",
+			"..",
+			"../",
+			"url",
+			"RSpec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/camillo/projects/nerdocracia"
+		},
+		{
+			"path": "/home/camillo/Downloads/WB0B9JN67/bigbag-2-1"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/camillo/projects/nerdocracia/public/404.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1722,
+								1722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/camillo/Downloads/WB0B9JN67/bigbag-2-1/Static HTML/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/camillo/projects/nerdocracia/app/views/layouts/modals/_sign_up_modal.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/camillo/projects/nerdocracia/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/camillo/projects/nerdocracia/app/controllers/home_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/camillo/projects/nerdocracia/app/views/home/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/camillo/projects/nerdocracia/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74315,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										1371,
+										1382
+									],
+									[
+										1521,
+										1532
+									],
+									[
+										1590,
+										1601
+									],
+									[
+										1658,
+										1669
+									],
+									[
+										1717,
+										1728
+									],
+									[
+										4222,
+										4233
+									],
+									[
+										4382,
+										4393
+									],
+									[
+										4492,
+										4503
+									],
+									[
+										4561,
+										4572
+									],
+									[
+										4629,
+										4640
+									],
+									[
+										4688,
+										4699
+									],
+									[
+										5003,
+										5014
+									],
+									[
+										5430,
+										5441
+									],
+									[
+										5801,
+										5812
+									],
+									[
+										6250,
+										6261
+									],
+									[
+										6699,
+										6710
+									],
+									[
+										7148,
+										7159
+									],
+									[
+										7516,
+										7527
+									],
+									[
+										7736,
+										7747
+									],
+									[
+										9169,
+										9180
+									],
+									[
+										9320,
+										9331
+									],
+									[
+										9389,
+										9400
+									],
+									[
+										9457,
+										9468
+									],
+									[
+										9516,
+										9527
+									],
+									[
+										13243,
+										13254
+									],
+									[
+										13394,
+										13405
+									],
+									[
+										13463,
+										13474
+									],
+									[
+										13531,
+										13542
+									],
+									[
+										13590,
+										13601
+									],
+									[
+										17317,
+										17328
+									],
+									[
+										17468,
+										17479
+									],
+									[
+										17537,
+										17548
+									],
+									[
+										17605,
+										17616
+									],
+									[
+										17664,
+										17675
+									],
+									[
+										21391,
+										21402
+									],
+									[
+										21542,
+										21553
+									],
+									[
+										21611,
+										21622
+									],
+									[
+										21679,
+										21690
+									],
+									[
+										21738,
+										21749
+									],
+									[
+										25459,
+										25470
+									],
+									[
+										25610,
+										25621
+									],
+									[
+										25679,
+										25690
+									],
+									[
+										25747,
+										25758
+									],
+									[
+										25806,
+										25817
+									],
+									[
+										28402,
+										28413
+									],
+									[
+										28773,
+										28784
+									],
+									[
+										29222,
+										29233
+									],
+									[
+										29671,
+										29682
+									],
+									[
+										30120,
+										30131
+									],
+									[
+										30485,
+										30496
+									],
+									[
+										30702,
+										30713
+									],
+									[
+										32132,
+										32143
+									],
+									[
+										32283,
+										32294
+									],
+									[
+										32352,
+										32363
+									],
+									[
+										32420,
+										32431
+									],
+									[
+										32479,
+										32490
+									],
+									[
+										36203,
+										36214
+									],
+									[
+										36354,
+										36365
+									],
+									[
+										36423,
+										36434
+									],
+									[
+										36491,
+										36502
+									],
+									[
+										36550,
+										36561
+									],
+									[
+										40274,
+										40285
+									],
+									[
+										40425,
+										40436
+									],
+									[
+										40494,
+										40505
+									],
+									[
+										40562,
+										40573
+									],
+									[
+										40621,
+										40632
+									],
+									[
+										44345,
+										44356
+									],
+									[
+										44496,
+										44507
+									],
+									[
+										44565,
+										44576
+									],
+									[
+										44633,
+										44644
+									],
+									[
+										44692,
+										44703
+									],
+									[
+										48410,
+										48421
+									],
+									[
+										48561,
+										48572
+									],
+									[
+										48630,
+										48641
+									],
+									[
+										48698,
+										48709
+									],
+									[
+										48757,
+										48768
+									],
+									[
+										51343,
+										51354
+									],
+									[
+										51714,
+										51725
+									],
+									[
+										52163,
+										52174
+									],
+									[
+										52612,
+										52623
+									],
+									[
+										53061,
+										53072
+									],
+									[
+										54649,
+										54660
+									],
+									[
+										54799,
+										54810
+									],
+									[
+										54868,
+										54879
+									],
+									[
+										54936,
+										54947
+									],
+									[
+										54995,
+										55006
+									],
+									[
+										58713,
+										58724
+									],
+									[
+										58863,
+										58874
+									],
+									[
+										58932,
+										58943
+									],
+									[
+										59000,
+										59011
+									],
+									[
+										59059,
+										59070
+									],
+									[
+										62777,
+										62788
+									],
+									[
+										62927,
+										62938
+									],
+									[
+										62996,
+										63007
+									],
+									[
+										63064,
+										63075
+									],
+									[
+										63123,
+										63134
+									],
+									[
+										66841,
+										66852
+									],
+									[
+										66991,
+										67002
+									],
+									[
+										67060,
+										67071
+									],
+									[
+										67128,
+										67139
+									],
+									[
+										67187,
+										67198
+									],
+									[
+										70899,
+										70910
+									],
+									[
+										71049,
+										71060
+									],
+									[
+										71118,
+										71129
+									],
+									[
+										71186,
+										71197
+									],
+									[
+										71245,
+										71256
+									],
+									[
+										73753,
+										73764
+									],
+									[
+										73913,
+										73924
+									],
+									[
+										74023,
+										74034
+									],
+									[
+										74092,
+										74103
+									],
+									[
+										74160,
+										74171
+									],
+									[
+										74219,
+										74230
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7436.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/test_vue.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "featured-products.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1215,
+								1215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/camillo/projects/nerdocracia/app/controllers/products_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/camillo/projects/nerdocracia/app/assets/stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83408,
+								83408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 59583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/camillo/projects/nerdocracia/app/assets/javascripts/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/camillo/projects/nerdocracia/app/views/layouts/_footer.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3138,
+								3138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/camillo/projects/nerdocracia/app/views/layouts/_header.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17654,
+								17654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"nerdocracia/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
